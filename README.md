@@ -2,6 +2,8 @@
 
 # Gizlilik Politikası
 
-Botumuz, kullanıcı verilerini yalnızca komut işlevleri için kullanır. Hiçbir veri üçüncü taraflarla paylaşılmaz veya kayıt altına alınmaz. Bot yalnızca Discord API kullanarak çalışır.
+Bot, kullanıcı verilerini yalnızca komutların çalışması ve sistem işleyişi için toplar ve saklayabilir. Veriler hiçbir şekilde üçüncü taraflarla paylaşılmaz.
+
+Bot, yalnızca Discord API üzerinden çalışır ve Discord'un gizlilik kurallarına uygun hareket eder.
 
 İletişim: kerremeffe08@gmail.com
